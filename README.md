@@ -36,12 +36,15 @@ En este repositorio encontrará:
 
 ## 👨‍💻 Autores
 
-**Julián Camilo Londoño Zárate**
-**Jose ALfredo Quevedo Suarez**
-**Julián Camilo Londoño Zárate**
-**Julián Camilo Londoño Zárate**
+Julián Camilo Londoño Zárate.
 
-Universidad Nacional de Colombia
+Jose ALfredo Quevedo Suarez.
+
+Julián Camilo Londoño Zárate.
+
+Julián Camilo Londoño Zárate.
+
+**Universidad Nacional de Colombia**
 
 ---
 
