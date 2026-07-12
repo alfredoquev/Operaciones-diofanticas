@@ -40,9 +40,7 @@ Julián Camilo Londoño Zárate.
 
 Jose ALfredo Quevedo Suarez.
 
-Julián Camilo Londoño Zárate.
-
-Julián Camilo Londoño Zárate.
+Pongan sus nombres xd
 
 **Universidad Nacional de Colombia**
 
