@@ -1,3 +1,5 @@
+
+
 # Problema de las Dos Jarras
 
 Este repositorio contiene una implementación interactiva del **Problema de las Dos Jarras**, desarrollada en **Python** mediante un **Jupyter Notebook**. El proyecto presenta una simulación gráfica del algoritmo de resolución, junto con ejemplos de ejecución y la documentación necesaria para su utilización.
@@ -23,6 +25,7 @@ En este repositorio encontrará:
 | **notebook.ipynb** | Cuaderno principal del proyecto. Contiene una introducción al problema, el manual de uso, el código fuente completo y ejemplos de ejecución de la simulación. |
 | **Dependencias.md** | Documento que describe las librerías y herramientas utilizadas durante el desarrollo del proyecto, junto con sus funciones y referencias bibliográficas. |
 | **Images/** | Carpeta que almacena las imágenes utilizadas por el cuaderno para mejorar la presentación visual del proyecto. |
+| **Proyecto - Mat. Discretas II.pdf** | Archivo PDF donde se encuentra el reporte tecnico del proyecto. |
 
 ---
 
