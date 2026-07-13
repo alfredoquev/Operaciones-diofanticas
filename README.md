@@ -38,9 +38,11 @@ En este repositorio encontrará:
 
 Julián Camilo Londoño Zárate.
 
-Jose ALfredo Quevedo Suarez.
+Jarol David Zuluaga Grau
 
-Pongan sus nombres xd
+Jose Alfredo Quevedo Suarez.
+
+Samuel Mejía Ortiz
 
 **Universidad Nacional de Colombia**
 
